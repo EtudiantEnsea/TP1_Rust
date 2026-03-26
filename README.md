@@ -9,7 +9,7 @@
 
 ### 🏠 [Homepage](https://github.com/EtudiantEnsea)
 
-# tp-rust
+# TP1_rust
 
 Un analyseur de trames WiFi développé en Rust dans le cadre du TP réseau.
 
@@ -17,7 +17,7 @@ Un analyseur de trames WiFi développé en Rust dans le cadre du TP réseau.
 
 ## Description
 
-`tp-rust` est un outil permettant d’analyser des fichiers PCAP contenant des trames WiFi (IEEE 802.11).
+`TP1_rust` est un outil permettant d’analyser des fichiers PCAP contenant des trames WiFi (IEEE 802.11).
 
 Le programme :
 
@@ -119,4 +119,4 @@ cargo doc --no-deps --open
 
 ## Auteur
 
-
+Loick GOMES GRANCHO & Abdoul Nouroudine SANA
