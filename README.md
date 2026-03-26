@@ -104,9 +104,6 @@ cargo run -- --pcap data/capture.pcap --output-format json --output-file results
 * Rust installé
 * Npcap (Windows)
 
-👉 https://nmap.org/npcap/
-⚠️ Installer avec **WinPcap compatible mode**
-
 ---
 
 ## Documentation
