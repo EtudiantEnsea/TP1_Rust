@@ -1,0 +1,1 @@
+cargo:rustc-link-search=native=C:\Users\loick\OneDrive\Bureau\Ecole\Rust\npcap\Lib\x64
