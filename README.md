@@ -119,4 +119,4 @@ cargo doc --no-deps --open
 
 ## Auteur
 
-Loick GOMES GRANCHO & Abdoul Nouroudine SANA
+**Loick GOMES GRANCHO & Abdoul Nouroudine SANA**
